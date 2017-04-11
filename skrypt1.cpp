@@ -1,4 +1,4 @@
-
+/* zmiana */
 #include <cstdlib>
 #include <iostream>
 
