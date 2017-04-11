@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+#include <stdio.h> /*Dodawanie bilbioteki stdio.h>*/
+=======
 #include <stdio.h> /* zmiana */
+>>>>>>> cad0b474c4a59b218e7850338e276b4f9f73e6f0
 #include <iostream.h>
 
 float suma (float a, float b)

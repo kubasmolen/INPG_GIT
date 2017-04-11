@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> /*Do not confuse with "studio"*/
 /* zmiana */
 char *tydzien[7]={"sobota","niedziela","poniedzialek","wtorek","sroda","czwartek","piatek"};
 int dni_mies[12]={31,28,31,30,31,30,31,31,30,31,30,31};
