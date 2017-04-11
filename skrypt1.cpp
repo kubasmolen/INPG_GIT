@@ -1,4 +1,4 @@
-
+/*Co tu tak pusto?*/
 #include <cstdlib>
 #include <iostream>
 
