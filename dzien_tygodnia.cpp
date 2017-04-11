@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/* zmiana */
 char *tydzien[7]={"sobota","niedziela","poniedzialek","wtorek","sroda","czwartek","piatek"};
 int dni_mies[12]={31,28,31,30,31,30,31,31,30,31,30,31};
 int dni_mies_rok[12];
