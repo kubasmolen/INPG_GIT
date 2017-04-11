@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> /* zmiana */
 #include <iostream.h>
 
 float suma (float a, float b)
