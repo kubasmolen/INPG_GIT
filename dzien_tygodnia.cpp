@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
 {
   int d,m,r;
   for(;;){
-    printf("podaj date(dd.mm.rrrr): ");
+    printf("podaj datê(dd.mm.rrrr): ");
     scanf("%d.%d.%d",&d,&m,&r);
     if(rok_przestepny(r)) dni_mies[1]=29;
     else dni_mies[1]=28;
