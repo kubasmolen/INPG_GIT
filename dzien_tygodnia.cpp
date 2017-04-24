@@ -32,6 +32,8 @@ int ile_przestepnych(int r)
   return iprzestepnych;
 }
 
+/* zmiana master 2 */
+/* zmiana master 2 */
 int main(int argc, char *argv[])
 {
   int d,m,r;
