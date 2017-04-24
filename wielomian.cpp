@@ -10,7 +10,7 @@ double T[M];
 int czytaj()
 {
     int i;
-
+/* zmiana new_branch 10 *//* zmiana new_branch 10 */
     do
     {
         printf("Dla wielomianu a :\n");
