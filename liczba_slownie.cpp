@@ -8,6 +8,7 @@
 int rozklad_liczby(unsigned short rozklad[4], unsigned long liczba)
 {
   int n;
+    int m;
   for(n=0;n<4;n++) rozklad[n]=0;    // czysci tablice
   if(0>liczba>999) return -1;       // sprawdza czy liczba jest prawidlowa
   for(n=3;n>0;n--) {
@@ -25,6 +26,7 @@ int rozklad_liczby(unsigned short rozklad[4], unsigned long liczba)
   return 0;
 }
 
+/* zmiana branch test 3 */
 
 int main()
 {
