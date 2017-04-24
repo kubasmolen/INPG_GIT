@@ -30,7 +30,8 @@ double getN(double n, double s, double A[ 10]){
     }
     srednia(b,n);
     max(liczbaMax);
-    sa = b/n;
+    sa = b/n;/* zmiana master 8 */
+
 
     for(int i=0;i<n;i++)
     { dodaj=(A[i]-sa)*(A[i]-sa);
