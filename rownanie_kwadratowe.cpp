@@ -1,3 +1,7 @@
+/* zmiana master 6 */
+/* zmiana master 6 */
+
+/* zmiana master 6 */
 
 #include<math.h>
 #include<iostream.h>
