@@ -14,7 +14,7 @@ int main(){
                                                 tmp=T[i];
                                                 T[i]=T[i+1];
                                                 T[i+1]=tmp;
-                                                i=(-1);
+                                                i=(-1);/* zmiana new_branch 7 */
                      }
     }
     for(i=0;i<4;i++)
