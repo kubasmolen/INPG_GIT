@@ -11,7 +11,8 @@ int czytaj()
 {
     int i;
 
-    do
+    do/* zmiana master 10 */
+
     {
         printf("Dla wielomianu a :\n");
         printf("podaj stopien wielomianu. \nn=");
@@ -39,6 +40,7 @@ int main()
     for(i=n;i>=0;i--) S+=(T[i]*(pow(x,i)));
     printf("wartosc wielomianu wynosi: \ny(x)=%.4lf\n",S);
     printf("X=%.3lf n=%d",x,n);
-    scanf("%d",&N);
+    scanf("%d",&N);/* zmiana master 10 */
+
     return 0;
 }
