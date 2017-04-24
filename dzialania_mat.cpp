@@ -42,3 +42,5 @@ cout<<" iloraz a \ b wynosi: "<<iloraz(a,b)<<"\n";
 
 system("pause");
 }
+
+/* zmiana new_branch 4 */

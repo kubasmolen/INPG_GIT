@@ -32,13 +32,14 @@ int ile_przestepnych(int r)
   return iprzestepnych;
 }
 
-/* zmiana master 2 */
-/* zmiana master 2 */
+
+/* zmiana new_branch 3 */
+
 int main(int argc, char *argv[])
 {
   int d,m,r;
   for(;;){
-    printf("podaj datê(dd.mm.rrrr): ");
+    printf("podaj datÄ™(dd.mm.rrrr): ");
     scanf("%d.%d.%d",&d,&m,&r);
     if(rok_przestepny(r)) dni_mies[1]=29;
     else dni_mies[1]=28;

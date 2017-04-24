@@ -13,6 +13,7 @@ int czytaj()
 
     do/* zmiana master 10 */
 
+
     {
         printf("Dla wielomianu a :\n");
         printf("podaj stopien wielomianu. \nn=");

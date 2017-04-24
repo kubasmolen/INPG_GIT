@@ -4,6 +4,7 @@
 
 /* rozklad_liczby - rozklada liczby na jednosci dziesiatki i setki oraz
    okresla forme gramatyczna przyrostka                                  */
+/* zmiana new_branch 2 */
 
 int rozklad_liczby(unsigned short rozklad[4], unsigned long liczba)
 {

@@ -7,6 +7,8 @@ struct Rzym_t
   int w;
 };
 
+/* zmiana new_branch 1 */
+
 static const Rzym_t Rzym[]=
 {
   {"M",  1000},/* zmiana master 4 */

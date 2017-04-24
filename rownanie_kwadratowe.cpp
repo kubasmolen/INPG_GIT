@@ -1,7 +1,5 @@
-/* zmiana master 6 */
-/* zmiana master 6 */
 
-/* zmiana master 6 */
+/* zmiana new_branch 6 */
 
 #include<math.h>
 #include<iostream.h>
