@@ -9,19 +9,19 @@ struct Rzym_t
 
 static const Rzym_t Rzym[]=
 {
-  {"M",  1000},
-  {"CM",  900},
-  {"D",   500},
-  {"CD",  400},
-  {"C",   100},
-  {"XC",   90},
-  {"L",    50},
-  {"XL",   40},
-  {"X",    10},
-  {"IX",    9},
-  {"V",     5},
-  {"IV",    4},
-  {"I",     1},
+  {"M",  1000},/* zmiana master 4 */
+  {"CM",  900},/* zmiana master 4 */
+  {"D",   500},/* zmiana master 4 */
+  {"CD",  400},/* zmiana master 4 */
+  {"C",   100},/* zmiana master 4 */
+  {"XC",   90},/* zmiana master 4 */
+  {"L",    50},/* zmiana master 4 */
+  {"XL",   40},/* zmiana master 4 */
+  {"X",    10},/* zmiana master 4 */
+  {"IX",    9},/* zmiana master 4 */
+  {"V",     5},/* zmiana master 4 */
+  {"IV",    4},/* zmiana master 4 */
+  {"I",     1},/* zmiana master 4 */
 };
 
 const char *dectorom( int liczba )
