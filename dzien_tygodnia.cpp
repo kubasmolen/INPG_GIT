@@ -32,6 +32,8 @@ int ile_przestepnych(int r)
   return iprzestepnych;
 }
 
+/* zmiana new_branch 3 */
+
 int main(int argc, char *argv[])
 {
   int d,m,r;
