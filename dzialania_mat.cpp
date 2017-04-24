@@ -34,11 +34,11 @@ cin>>b;
 
 cout<<" suma a+b wynosi: "<<suma(a,b)<<"\n";
 
-cout<<" roznica a-b wynosi: "<<roznica(a,b)<<"\n";
+cout<<" roznica a - b wynosi: "<<roznica(a,b)<<"\n";
 
-cout<<" iloczyn a*b wynosi: "<<iloczyn(a,b)<<"\n";
+cout<<" iloczyn a * b wynosi: "<<iloczyn(a,b)<<"\n";
 
-cout<<" iloraz a\b wynosi: "<<iloraz(a,b)<<"\n";
+cout<<" iloraz a \ b wynosi: "<<iloraz(a,b)<<"\n";
 
 system("pause");
 }
