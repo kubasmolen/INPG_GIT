@@ -45,7 +45,7 @@ for(int i=0;i<20;i++)
         cout<<"\nwiekszych: "<<wiekszych;
         cout<<"\nmniejszych: "<<mniejszych;
         cout<<" \n\n";
-
+/* zmiana new_branch 5 */
 
 
     system("PAUSE");
