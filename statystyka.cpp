@@ -27,7 +27,7 @@ double getN(double n, double s, double A[ 10]){
     cout << "A[" << i << "] = " << A [i] << endl;
     b += A [i];
     if(A[ i] > liczbaMax ) { liczbaMax = A[ i];}
-    }
+    }/* zmiana new_branch 8 */
     srednia(b,n);
     max(liczbaMax);
     sa = b/n;
@@ -37,6 +37,7 @@ double getN(double n, double s, double A[ 10]){
       sum += dodaj;
     }
 
+    /* zmiana new_branch 8 */
     odchylenie=sqrt(sum/n);
 
     cout<<"\nOdchyodchylenie wynosi "<<odchylenie<< "\n" <<endl;
