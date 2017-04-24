@@ -7,7 +7,7 @@ float suma (float a, float b)
 {
       return a+b;
       }
-float roznica (float a, float b)
+float roznica (float a, float b)/* zmiana master 1 */
 {
       return a-b;
       }
@@ -19,7 +19,7 @@ float iloczyn (float a, float b)
 }
 float iloraz (float a, float b)
 {
-      return a/b;
+     /* zmiana master 1 */ return a/b;
 }
 
 
@@ -29,7 +29,7 @@ main()
 
 cout<<"podaj liczbe: ";
 cin>>a;
-cout<<"podaj druga liczbe: ";
+cout<<"podaj druga liczbe: "; /* zmiana master 1 */
 cin>>b;
 
 cout<<" suma a+b wynosi: "<<suma(a,b)<<"\n";

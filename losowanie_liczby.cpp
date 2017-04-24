@@ -39,7 +39,7 @@ for(int i=0;i<20;i++)
         if(tab[i]<10)
         mniejszych++;
         }
-
+/* zmiana master 5 */
         cout<<"\nMax: "<<max;
         cout<<"\nmin: "<<min;
         cout<<"\nwiekszych: "<<wiekszych;

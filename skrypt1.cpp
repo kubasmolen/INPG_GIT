@@ -3,7 +3,7 @@
 #include <iostream>
 
 
-char *T[]={"to jest a b pierwszytekst", "to jest abc drugi tekst", "to jest a b b d trzeci tekst", "a b c d e f"};
+char *T[]={"to jest a b pierwszytekst", "to jest abc  tekst", "to jest a b b d trzeci tekst", "a b c d e f"};
 int main(){
     int N,i,j,k;
     char *tmp;
@@ -23,7 +23,8 @@ int main(){
                 for(j=0;j<257;j++)
                 {
                         if((T[i][j])==' ')
-                                k++;
+                            k++;/* zmiana master 7 */
+
                         else if((T[i][j])==' ')
                                 j=257;
                 }

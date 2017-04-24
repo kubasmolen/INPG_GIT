@@ -1,4 +1,6 @@
+
 /* zmiana new_branch 6 */
+
 #include<math.h>
 #include<iostream.h>
 

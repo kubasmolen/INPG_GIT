@@ -27,7 +27,7 @@ int rozklad_liczby(unsigned short rozklad[4], unsigned long liczba)
   return 0;
 }
 
-/* zmiana branch test 3 */
+/* zmiana master 3 */
 
 int main()
 {
